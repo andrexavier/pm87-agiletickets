@@ -91,7 +91,6 @@ public class Sessao {
 	}
 	
 	public void reserva(Integer numeroDeIngressos) {
-		// soma quantidade na variavel ingressos reservados
 		this.ingressosReservados += numeroDeIngressos;
 	}
 
